@@ -8,8 +8,8 @@ Welcome to the repository for the Applied Business Statistics course at UdeSA in
 
 ## Contents
 
-1. [Assignment 1](./Resueltos Practica 1): Resueltos Practica 1
-2. [Assignment 2](./Resueltos Practica 2): Resueltos Practica 2
+1. [Assignment 1](./Resueltos%20Practica%201): Resueltos Practica 1
+2. [Assignment 2](./Resueltos%20Practica%202): Resueltos Practica 2
 
 Feel free to explore the respective folders for each assignment to access the solutions.
 
